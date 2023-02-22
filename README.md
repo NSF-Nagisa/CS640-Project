@@ -1,2 +1,2 @@
 # CS640-Project
-The project of CS640 in 2023 Spring
+The project for CS640 spring 2023
